@@ -1,4 +1,8 @@
-﻿----------------------------
+﻿Version 0.0.0.2
+
+- Added README
+
+----------------------------
 Version 0.0.0.1
 
 - Created rough outline of how the UI should look
