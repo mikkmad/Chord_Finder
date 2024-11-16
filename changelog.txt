@@ -1,0 +1,14 @@
+Version 0.0.0.3
+
+- Moved changelog.txt from project folder to for easy access
+
+----------------------------
+Version 0.0.0.2
+
+- Added README
+
+----------------------------
+Version 0.0.0.1
+
+- Created rough outline of how the UI should look
+- Set up simple navigation between pages
