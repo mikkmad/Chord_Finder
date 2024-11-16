@@ -1,0 +1,5 @@
+﻿----------------------------
+Version 0.0.0.1
+
+- Created rough outline of how the UI should look
+- Set up simple navigation between pages
