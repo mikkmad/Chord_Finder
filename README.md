@@ -12,7 +12,7 @@
 ## Installation
 1. **Clone the Repository**: 
     ```sh 
-    git clone https://github.com/yourusername/chord-finder.git 
+    git clone https://github.com/mikkmad/Chord_Finder.git 
     ```
 2. **Ensure .NET 9.0 (or any subversion of 9.x) is installed**:
    - You can download and install .NET 9.0 from the [official .NET website](https://dotnet.microsoft.com/en-us/download). 
