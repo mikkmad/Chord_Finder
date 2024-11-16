@@ -9,7 +9,7 @@
 - **Scales and Patterns**: View various scales, their patterns, and individual blocks (all, multiple, or single blocks).
 - **Chord Progressions**: Access predefined chord progressions for each chord (e.g., I-VI-IV, I-IV-ii-VI).
 
-## Installation To get started with Chord Finder, follow these steps: 
+## Installation
 1. **Clone the Repository**: 
     ```sh 
     git clone https://github.com/yourusername/chord-finder.git 
