@@ -16,7 +16,7 @@
             This is the All Notes Page!
         </TextBlock>
         
-        <Viewbox Grid.Row="1">
+        <Viewbox Grid.Row="1" Margin="15">
             <Canvas x:Name="FretboardCanvas" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="1200" Height="350" />
         </Viewbox>
         
