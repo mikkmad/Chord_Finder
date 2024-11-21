@@ -18,6 +18,7 @@ public partial class MainWindow
         ContentFrame.Navigate(new WelcomePage());
     }
     
+    // navigation menu
     private void NavigationListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
     {
         if (NavigationListBox.SelectedItem is ListBoxItem selectedItem)

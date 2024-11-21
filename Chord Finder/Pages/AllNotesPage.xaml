@@ -7,6 +7,18 @@
       Title="All Notes Page" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
     
     <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
-        <TextBlock VerticalAlignment="Stretch" HorizontalAlignment="Stretch">This is the All Notes Page!</TextBlock>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="0">
+            This is the All Notes Page!
+        </TextBlock>
+        
+        <Viewbox Grid.Row="1">
+            <Canvas x:Name="FretboardCanvas" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="1200" Height="350" />
+        </Viewbox>
+        
     </Grid>
 </Page>

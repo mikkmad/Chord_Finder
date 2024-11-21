@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d"
-        Title="Chord Finder" Height="750" Width="1200"
+        Title="Chord Finder" Height="750" Width="1400"
         MinHeight="600" MinWidth="950">
     
     <Grid>
@@ -29,7 +29,7 @@
         <Border Grid.Column="0" BorderBrush="Black" BorderThickness="0,0,1,0"/>
         
         <!-- Middle Column: Content -->
-        <Frame Grid.Column="1" x:Name="ContentFrame" NavigationUIVisibility="Hidden" Margin="15"/>
+        <Frame Grid.Column="1" x:Name="ContentFrame" NavigationUIVisibility="Hidden" Margin="15" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
         
         <!-- Vertical Line between Contents page and Right Column -->
         <Border Grid.Column="2" BorderBrush="Black" BorderThickness="1,0,0,0" />
